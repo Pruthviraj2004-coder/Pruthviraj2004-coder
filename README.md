@@ -22,8 +22,16 @@
 🎨 **Frontend Basics:** Created multiple frontend-focused projects  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Pruthviraj2004-coder=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Pruthviraj2004-coder=your-username&layout=compact&theme=radical)  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj2004-coder&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj2004-coder&layout=compact&theme=radical)  
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pruthviraj2004-coder&theme=radical)  
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pruthviraj2004-coder&theme=radical)  
+ 
 
 ## 📫 Connect with Me  
 🔗 **GitHub:** [github.com/Pruthviraj2004-coder](https://github.com/Pruthviraj2004-coder)  
